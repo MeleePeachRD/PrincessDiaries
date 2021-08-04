@@ -1,5 +1,6 @@
 ﻿using System.Threading.Tasks;
 using Statiq.App;
+using Statiq.Common;
 using Statiq.Web;
 
 namespace MeleePeachRD.PrincessDiaries.Web
@@ -10,6 +11,10 @@ namespace MeleePeachRD.PrincessDiaries.Web
             await Bootstrapper
                 .Factory
                 .CreateWeb(args)
+                .DeployToGitHubPages(
+                    "MeleePeachRD",
+                    "meleepeachrd.github.io",
+                    Config.FromSetting<string>("GITHUB_TOKEN"))
                 .RunAsync();
     }
 }
