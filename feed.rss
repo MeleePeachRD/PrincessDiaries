@@ -5,14 +5,14 @@
 		<link>/PrincessDiaries</link>
 		<description />
 		<copyright>Copyright © 2021</copyright>
-		<pubDate>Wed, 04 Aug 2021 18:42:26 GMT</pubDate>
-		<lastBuildDate>Wed, 04 Aug 2021 18:42:26 GMT</lastBuildDate>
+		<pubDate>Wed, 04 Aug 2021 18:55:43 GMT</pubDate>
+		<lastBuildDate>Wed, 04 Aug 2021 18:55:43 GMT</lastBuildDate>
 		<item>
 			<title>Embed Test</title>
 			<link>/PrincessDiaries/posts/embed-test</link>
 			<description>&lt;p lang="en" dir="ltr"&gt;i am the sickest peach alive holy shit &lt;a href="https://t.co/LbiHoCrhxw"&gt;pic.twitter.com/LbiHoCrhxw&lt;/a&gt;&lt;/p&gt;</description>
 			<guid isPermaLink="false">/PrincessDiaries/posts/embed-test</guid>
-			<pubDate>Wed, 04 Aug 2021 18:40:28 GMT</pubDate>
+			<pubDate>Wed, 04 Aug 2021 18:54:07 GMT</pubDate>
 			<content:encoded>&lt;h1 id="youtube"&gt;YouTube&lt;/h1&gt;
 &lt;iframe width="1280" height="720" src="https://www.youtube.com/embed/tsXVHGJ-PMM?&amp;autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;h1 id="twitter"&gt;Twitter&lt;/h1&gt;
@@ -20,7 +20,7 @@
 &lt;h1 id="gfycat"&gt;Gfycat&lt;/h1&gt;
 &lt;iframe src='https://gfycat.com/ifr/ConstantGleamingCanary' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'&gt;&lt;/iframe&gt;
 &lt;h1 id="twitch-clip"&gt;Twitch Clip&lt;/h1&gt;
-&lt;iframe src="https://clips.twitch.tv/embed?clip=ChillyAwkwardAnacondaBudBlast-UPfpRm0_1U_vG6FW&amp;parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"&gt;&lt;/iframe&gt;
+&lt;iframe src="https://clips.twitch.tv/embed?clip=ChillyAwkwardAnacondaBudBlast-UPfpRm0_1U_vG6FW&amp;parent=meleepeachrd.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"&gt;&lt;/iframe&gt;
 &lt;h1 id="youtube-clip"&gt;YouTube Clip&lt;/h1&gt;
 &lt;iframe width="400" height="225" src="https://www.youtube.com/embed/VxGJCIHpCZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </content:encoded>
