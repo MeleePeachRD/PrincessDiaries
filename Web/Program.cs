@@ -12,9 +12,9 @@ namespace MeleePeachRD.PrincessDiaries.Web
                 .Factory
                 .CreateWeb(args)
                 .DeployToGitHubPages(
-                    "MeleePeachRD",
-                    "meleepeachrd.github.io",
-                    Config.FromSetting<string>("GITHUB_TOKEN"))
+                    @"MeleePeachRD",
+                    @"PrincessDiaries",
+                    Config.FromSetting<string>(@"GITHUB_TOKEN"))
                 .RunAsync();
     }
 }
