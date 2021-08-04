@@ -11,6 +11,6 @@ jobs:
     - uses: actions/setup-dotnet@v1
       with:
         dotnet-version: '5.0' # SDK Version to use.
-    - run: dotnet run -- deploy --project "./Web/Web.csproj"
+    - run: dotnet run -- deploy --project "./Web"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
