@@ -1,0 +1,16 @@
+name: Deploy Site
+on: [push]
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+    - uses: actions/checkout@main
+      with:
+        submodules: recursive
+    - uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: '5.0' # SDK Version to use.
+    - run: dotnet run -- deploy --project "./Web/Web.csproj"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
