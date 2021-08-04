@@ -12,4 +12,8 @@
       <PackageReference Include="Statiq.Web" Version="1.0.0-beta.32" />
     </ItemGroup>
 
+    <ItemGroup>
+      <None Remove="cache\**" />
+    </ItemGroup>
+
 </Project>
