@@ -5,14 +5,24 @@
 		<link>/PrincessDiaries</link>
 		<description />
 		<copyright>Copyright © 2021</copyright>
-		<pubDate>Wed, 04 Aug 2021 18:29:33 GMT</pubDate>
-		<lastBuildDate>Wed, 04 Aug 2021 18:29:33 GMT</lastBuildDate>
+		<pubDate>Wed, 04 Aug 2021 18:42:26 GMT</pubDate>
+		<lastBuildDate>Wed, 04 Aug 2021 18:42:26 GMT</lastBuildDate>
 		<item>
 			<title>Embed Test</title>
 			<link>/PrincessDiaries/posts/embed-test</link>
+			<description>&lt;p lang="en" dir="ltr"&gt;i am the sickest peach alive holy shit &lt;a href="https://t.co/LbiHoCrhxw"&gt;pic.twitter.com/LbiHoCrhxw&lt;/a&gt;&lt;/p&gt;</description>
 			<guid isPermaLink="false">/PrincessDiaries/posts/embed-test</guid>
-			<pubDate>Wed, 04 Aug 2021 18:27:20 GMT</pubDate>
-			<content:encoded>&lt;iframe width="1280" height="720" src="https://www.youtube.com/embed/tsXVHGJ-PMM?&amp;autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+			<pubDate>Wed, 04 Aug 2021 18:40:28 GMT</pubDate>
+			<content:encoded>&lt;h1 id="youtube"&gt;YouTube&lt;/h1&gt;
+&lt;iframe width="1280" height="720" src="https://www.youtube.com/embed/tsXVHGJ-PMM?&amp;autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h1 id="twitter"&gt;Twitter&lt;/h1&gt;
+&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;i am the sickest peach alive holy shit &lt;a href="https://t.co/LbiHoCrhxw"&gt;pic.twitter.com/LbiHoCrhxw&lt;/a&gt;&lt;/p&gt;&amp;mdash; smash.gg/nightclub | Ryobeat (&amp;#64;ryobeat) &lt;a href="https://twitter.com/ryobeat/status/1422314415165263880?ref_src=twsrc%5Etfw"&gt;August 2, 2021&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+&lt;h1 id="gfycat"&gt;Gfycat&lt;/h1&gt;
+&lt;iframe src='https://gfycat.com/ifr/ConstantGleamingCanary' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'&gt;&lt;/iframe&gt;
+&lt;h1 id="twitch-clip"&gt;Twitch Clip&lt;/h1&gt;
+&lt;iframe src="https://clips.twitch.tv/embed?clip=ChillyAwkwardAnacondaBudBlast-UPfpRm0_1U_vG6FW&amp;parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"&gt;&lt;/iframe&gt;
+&lt;h1 id="youtube-clip"&gt;YouTube Clip&lt;/h1&gt;
+&lt;iframe width="400" height="225" src="https://www.youtube.com/embed/VxGJCIHpCZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </content:encoded>
 			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
 		</item>
