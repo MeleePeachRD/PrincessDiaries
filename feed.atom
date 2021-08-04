@@ -4,7 +4,15 @@
 	<title />
 	<link rel="self" href="/PrincessDiaries" />
 	<rights>Copyright © 2021</rights>
-	<updated>2021-08-04T18:28:41Z</updated>
+	<updated>2021-08-04T18:29:33Z</updated>
+	<entry>
+		<id>/PrincessDiaries/posts/embed-test</id>
+		<title>Embed Test</title>
+		<link href="/PrincessDiaries/posts/embed-test" />
+		<updated>2021-08-04T18:27:20Z</updated>
+		<content>&lt;iframe width="1280" height="720" src="https://www.youtube.com/embed/tsXVHGJ-PMM?&amp;autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</content>
+	</entry>
 	<entry>
 		<id>/PrincessDiaries/posts/basic-tech</id>
 		<title>Basic Tech</title>
