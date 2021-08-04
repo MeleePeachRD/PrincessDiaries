@@ -14,7 +14,7 @@ Title: Embed Test
 
 # Twitch Clip
 
-<iframe src="https://clips.twitch.tv/embed?clip=ChillyAwkwardAnacondaBudBlast-UPfpRm0_1U_vG6FW&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=ChillyAwkwardAnacondaBudBlast-UPfpRm0_1U_vG6FW&parent=meleepeachrd.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 # YouTube Clip
 
